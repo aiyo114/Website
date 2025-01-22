@@ -872,7 +872,7 @@
 - taxonomy: 学习教程
   icon: fa-regular fa-folder-open
   list: 
-    - term: 设计规范
+    - term: 网络运维
       links:
         - title: Design Guidelines
           url: http://designguidelines.co/
@@ -945,33 +945,16 @@
           logo: images/logos/yineng.png
           description: 将全宇宙设计师的故事讲给你听。
 
-    - term: 交互设计
+    - term: 服务器空间
       links:
-        - title: Little Big Details
-          url: http://littlebigdetails.com/
-          logo: images/logos/littlebigdetails.png
-          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
-        - title: Smashing Magazine
-          url: https://www.smashingmagazine.com/category/user-experience
-          logo: images/logos/smashingmagazine.png
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-        - title: nngroup
-          url: https://www.nngroup.com/articles/
-          logo: images/logos/nngroup.png
-          description: Evidence-Based User Experience Research, Training, and Consulting
-        - title: Boxes and Arrows
-          url: http://boxesandarrows.com/
-          logo: images/logos/boxesandarrows.png
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
-        - title: UX Design Weekly
-          url: http://uxdesignweekly.com/
-          logo: images/logos/uxdesignweekly.png
-          description:  get a hand picked list of the best user experience design links every week. 
-        - title: UX Ren
-          url: http://uxren.cn/
-          logo: images/logos/uxren.png
-          description: 用户体验人的专业社区
-
+        - title: RackNerd
+          url: https://www.racknerd.com/
+          logo: https://www.racknerd.com/favicon.png
+          description: 最便宜vps，优惠码15OFFDEDI。 
+        - title: Serv00
+          url: https://www.serv00.com/
+          logo: https://www.serv00.com/static/ct8/img/logo.jpg
+          description: 一款永久免费的vps.
 
 - taxonomy: UED团队
   icon: fa-user-group
